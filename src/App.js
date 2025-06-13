@@ -134,7 +134,7 @@ const InteractiveCV = () => {
         {activeSection === 'about' && (
           <div className="text-center mb-12 animate-fade-in">
             <div className="flex justify-center mb-6">
-              <img src ="https://media.licdn.com/dms/image/v2/D4D03AQESIZ01bFI9DQ/profile-displayphoto-shrink_800_800/B4DZYmf85qG8Ac-/0/1744402633612?e=1755129600&v=beta&t=7G88juwCnoeeRcSkVESXIlDYW4A7P6svoX-1cDYwbeI" alt="Álvaro Fariña" className="w-32 h-32 rounded-full border-4 border-blue-500 shadow-lg" />
+              <img src ="https://avatars.githubusercontent.com/u/91646975?v=4" alt="Álvaro Fariña" className="w-32 h-32 rounded-full border-4 border-blue-500 shadow-lg" />
             </div>
             <h2 className="text-4xl font-bold mb-4">Estudiante de Ingeniería Electrónica</h2>
             <p className="text-xl mb-6 max-w-2xl mx-auto leading-relaxed">
