@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alvarofarina/CV.git/static/css/main.5b2c867e.css",
+    "main.js": "/alvarofarina/CV.git/static/js/main.20795a24.js",
+    "static/js/453.2199836d.chunk.js": "/alvarofarina/CV.git/static/js/453.2199836d.chunk.js",
+    "index.html": "/alvarofarina/CV.git/index.html",
+    "main.5b2c867e.css.map": "/alvarofarina/CV.git/static/css/main.5b2c867e.css.map",
+    "main.20795a24.js.map": "/alvarofarina/CV.git/static/js/main.20795a24.js.map",
+    "453.2199836d.chunk.js.map": "/alvarofarina/CV.git/static/js/453.2199836d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b2c867e.css",
+    "static/js/main.20795a24.js"
+  ]
+}
