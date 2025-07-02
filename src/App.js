@@ -18,11 +18,11 @@ const InteractiveCV = () => {
   const skills = [
     
     { name: 'HTML/CSS', level: 50, color: 'bg-orange-500' },
-    { name: 'Python', level: 70, color: 'bg-blue-600' },
+    { name: 'Python', level: 50, color: 'bg-blue-600' },
     { name: 'SQL / PLSQL', level: 30, color: 'bg-purple-500' },
     { name: 'C' , level: 65, color: 'bg-green-500' },
     { name: 'Networking / Redes', level: 70, color: 'bg-red-500' },
-    { name: 'Electronica', level: 99, color: 'bg-pink-500' },
+    { name: 'Electrónica', level: 99, color: 'bg-pink-500' },
     
   
     { name: 'Java', level: 50, color: 'bg-gray-500' }
@@ -31,9 +31,9 @@ const InteractiveCV = () => {
   const skills2 = [
     { name: 'Inglés', level: 90, color: 'bg-purple-500' },
     { name: 'Ofimática', level: 80, color: 'bg-green-500' },
-    { name: 'Linux', level: 30, color: 'bg-blue-500' },
-    { name: 'JavaScript', level: 10, color: 'bg-yellow-500' },
-    { name: 'Ciberseguridad', level: 10, color: 'bg-indigo-500' },
+    { name: 'Linux', level: 20, color: 'bg-blue-500' },
+    { name: 'JavaScript', level: 30, color: 'bg-yellow-500' },
+    { name: 'Ciberseguridad', level: 20, color: 'bg-indigo-500' },
     { name: 'Implementaciones IoT', level: 60, color: 'bg-teal-500' },
   ];
     
@@ -74,8 +74,8 @@ const InteractiveCV = () => {
             <h1
               className={`text-2xl font-bold bg-clip-text text-transparent ${
                 darkMode
-                  ? 'bg-gradient-to-r from-blue-500 to-blue-500'
-                  : 'bg-gradient-to-r from-blue-500 to-blue-500'
+                  ? 'bg-gradient-to-r from-blue-100 to-blue-500'
+                  : 'bg-gradient-to-r from-blue-500 to-blue-300'
               }`}
             >
               Álvaro Fariña
@@ -323,7 +323,7 @@ const InteractiveCV = () => {
                     <Mail className="text-blue-500" size={24} />
                     <div>
                       <div className="font-semibold">Email</div>
-                      <div className="text-sm">robocopdenewells@gmail.com</div>
+                      <div className="text-sm">alvaro.aguinagalde13@gmail.com</div>
                     </div>
                   </a>
                   
